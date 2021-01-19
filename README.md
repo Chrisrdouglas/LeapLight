@@ -9,7 +9,7 @@ This project was started to enable people to use the Leap Motion controller to t
 3. Download and install the Leap Motion SDK on your system using the following link. https://developer.leapmotion.com/releases/leap-motion-orion-321
 4. Look at the table on this page to determine what files you need to run it on your system then copy them to this folder.
 5. Install the [unofficial Lifx Python package](https://github.com/mclarkk/lifxlan) by running this command ```pip install lifxlan```
-
+6. Run the MotionController.py script to start it
 
 ## Demo
 
